@@ -6,7 +6,7 @@
 
 /*
 Nama	: Muhammad Naufal Musyaddad
-NIM		: 2602152326
+NIM		: 2602152326.
 */
 
 struct node{
